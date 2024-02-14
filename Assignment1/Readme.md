@@ -23,12 +23,13 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
-
+<img src="/Assignment1/Screenshots/AboutMeSite.png" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="/Assignment1/Screenshots/CSSFile.png" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="/Assignment1/Screenshots/HTMLFile.png" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
 <ul>
-  <li><b>**Example in bold**</b></li>
-  <li><i>*Example in italics*</i></li>
+  <li>**Example in bold**</li>
+  <li>*Example in italics*</li>
 </ul>
