@@ -32,7 +32,10 @@ The following **bonus** features are implemented:
 
 
 ## Notes:
-PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
+Here are some tutorials that helped me on the assignment.
+
+
+<a href="https://github.com/Jngnzl28/Platform_Computing">Github Repository</a>
 <ul>
   <li>**Example in bold**</li>
   <li>*Example in italics*</li>
