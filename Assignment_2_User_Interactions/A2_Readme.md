@@ -34,8 +34,9 @@ The following **bonus** features are implemented:
 ## Notes:
 Here are some tutorials that helped me on the assignment.
 
-
 <a href="https://github.com/Jngnzl28/Platform_Computing">Github Repository</a>
+<a href="https://www.selenium.dev/documentation/webdriver/getting_started/first_script/">Selenium Tutorial</a>
+
 <ul>
   <li>**Example in bold**</li>
   <li>*Example in italics*</li>
