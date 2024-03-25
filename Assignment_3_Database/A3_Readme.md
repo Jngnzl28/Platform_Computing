@@ -2,17 +2,17 @@
 
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
-Time spent: **NUMBER_HOURS_SPENT** hours spent in total
+Time spent: 5 days 4 hours spent in total
 
 ## Features
 
 The following **required** features are completed:
 
-- [ ] Organize Github projects for Assignment 3 (2 pts)
-- [ ] Complete SQL Mystery Walkthrough and take a screenshot or print to PDF the webpage (2 pts)
-- [ ] Complete Interactive MongoDB Tutorial and take a screenshot or print to PDF the webpage  (2 pts)
-- [ ] Choose a SQL or NoSQL Database and set up a server (4 pts)
-- [ ] Modify your metric_tracker file so that the metrics are saved onto a database (5 pts)
+- [X] Organize Github projects for Assignment 3 (2 pts)
+- [X] Complete SQL Mystery Walkthrough and take a screenshot or print to PDF the webpage (2 pts)
+- [X] Complete Interactive MongoDB Tutorial and take a screenshot or print to PDF the webpage  (2 pts)
+- [X] Choose a SQL or NoSQL Database and set up a server (4 pts)
+- [X] Modify your metric_tracker file so that the metrics are saved onto a database (5 pts)
 
 The following **bonus** features are implemented:
 
@@ -22,12 +22,15 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="/Assignment_3_Database/Images/Database.png" title='MongoDB' width='' alt='MongoDB' />
+
+<img src="/Assignment_3_Database/Images/MongoSQL.png" title='MongoSQL Tutorial' width='' alt='MongoSQL Tutorial' />
+
+<img src="/Assignment_3_Database/Images/Your_Database.png" title='Your Database' width='' alt='Your Database' />
+
 
 
 ## Notes:
-PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
-<ul>
-  <li>**Example in bold**</li>
-  <li>*Example in italics*</li>
-</ul>
+The initial setup was very complicated. I had to get some help on what to use for a database. I ended up 
+using MongoDB because it did not require too much work on creating a database. I tried to do firebase, but the
+tutorial was a bit long.
