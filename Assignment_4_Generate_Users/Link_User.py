@@ -22,9 +22,6 @@ def main():
     driver.get("http://localhost:3000/")
     reward_time = 10
     total_reward_time = 0
-    #total_reward_time = userAction("KEYWORD", driver, reward_time, ["sports", "games"])
-    #tag_name = ["img"]
-    #total_reward_time += userAction("IMAGE", driver, reward_time, tag_name)
     total_reward_time += clickLink(driver, reward_time)
     time.sleep(10)
     driver.quit()
