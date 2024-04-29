@@ -1,6 +1,6 @@
 # Metric Tracker with Database
 
-PROVIDE OVERVIEW OF ASSIGNMENT HERE
+This assignment is about creating a database for the website.
 
 Time spent: 5 days 4 hours spent in total
 

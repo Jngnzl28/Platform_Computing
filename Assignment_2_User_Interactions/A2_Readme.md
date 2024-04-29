@@ -1,6 +1,6 @@
 # Metric Tracker
 
-PROVIDE OVERVIEW OF ASSIGNMENT HERE
+This assignment is about setting up React and selenium for tracking metrics.
 
 Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
